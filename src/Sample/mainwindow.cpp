@@ -1,8 +1,8 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-#include "QtLive2dWidget/src/QLive2dWidget.hpp"
-#include "QtLive2dWidget/src/LAppLive2DManager.hpp"
-#include "QtLive2dWidget/src/LAppDefine.hpp"
+#include "QLive2dWidget.hpp"
+#include "LAppLive2DManager.hpp"
+#include "LAppDefine.hpp"
 #include <QLabel>
 
 #ifdef WIN32
